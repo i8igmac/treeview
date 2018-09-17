@@ -1,6 +1,10 @@
 # treeview
 rails: problem with jqueryTreeView
 
+
+Here is the source Git repo
+https://github.com/jqueryfiletree/jqueryfiletree
+
 here is a demo page
 http://learn.robotgeek.com/iframe/robotgeekTools/
 
